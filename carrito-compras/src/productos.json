@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "pantalón mujer",
+    "description": "gabardina",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "mujer",
+    "price": "$2.800",
+    "available": true,
+    "url_image": "https://www.saavedrasi.com.ar/images/PANTALONES-CARGO-PAMPERO1583936671118.jpg"
+  },
+  {
+    "id": 2,
+    "name": "remera hombre",
+    "description": "algodón",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "hombre",
+    "price": "$1.800",
+    "available": true,
+    "url_image": "https://http2.mlstatic.com/D_NQ_NP_825911-MLA20673607823_042016-O.webp"
+  },
+  {
+    "id": 3,
+    "name": "pantalón hombre",
+    "description": "gabardina",
+    "colors": ["gris", "azul", "verde", "negro", "beige"],
+    "category": "hombre",
+    "price": "$2.500",
+    "available": false,
+    "url_image": "https://http2.mlstatic.com/D_NQ_NP_997336-MLA47367545726_092021-O.jpg"
+  },
+  {
+    "id": 4,
+    "name": "remera mujer",
+    "description": "algodón",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "mujer",
+    "price": "$1.500",
+    "available": true,
+    "url_image": "https://casagini.com/wp-content/uploads/1-5-scaled.jpg"
+  },
+  {
+    "id": 5,
+    "name": "remera nene",
+    "description": "algodón",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "nene",
+    "price": "$1.200",
+    "available": true,
+    "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaSFo5AZihxLbBXOUZw6VQTrjzUFDO5KdwxF6yTobVgUlcYcq0vQjdtcsQc1sT3ckpC04&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "name": "remera nena",
+    "description": "algodón",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "nena",
+    "price": "$1.200",
+    "available": true,
+    "url_image": "https://http2.mlstatic.com/D_NQ_NP_694094-MLA47163268168_082021-W.jpg"
+  },
+  {
+    "id": 7,
+    "name": "pantalón mujer",
+    "description": "algodón",
+    "colors": ["aguamarina", "coral", "francia", "negro", "blanco"],
+    "category": "mujer",
+    "price": "$2.000",
+    "available": true,
+    "url_image": "https://cdn2.melodijolola.com/media/files/styles/nota_imagen/public/field/image/untitledj.jpg"
+  },
+  {
+    "id": 8,
+    "name": "calza",
+    "description": "lycra",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "nena",
+    "price": "$1.200",
+    "available": true,
+    "url_image": "http://http2.mlstatic.com/D_679300-MLA44323591070_122020-O.jpg"
+  },
+  {
+    "id": 9,
+    "name": "short",
+    "description": "microfibra",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "nene",
+    "price": "$1.500",
+    "available": true,
+    "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgF3RMg8w3agRfVn5VsL7whiVB3Ry6A2o4w&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "name": "short",
+    "description": "jean",
+    "colors": ["azul", "negro", "gris", "celeste", "blanco"],
+    "category": "teens",
+    "price": "$2.200",
+    "available": false,
+    "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc-8hZgdfO0rmgbiBhQTySpHTiBR1_y1K0w&usqp=CAU"
+  },
+  {
+    "id": 11,
+    "name": "musculosa hombre",
+    "description": "algodón",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "hombre",
+    "price": "$1.300",
+    "available": true,
+    "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfIKeteQt7QNmrY8ZNYcEiAPYLPR5eHxaSg&usqp=CAU"
+  },
+  {
+    "id": 12,
+    "name": "musculosa mujer",
+    "description": "polyester",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "mujer",
+    "price": "$1.300",
+    "available": true,
+    "url_image": "https://d2r9epyceweg5n.cloudfront.net/stores/871/662/products/musculosa111-b4507e949e393fedea16292319835354-1024-1024.jpg"
+  },
+  {
+    "id": 13,
+    "name": "musculosa nene",
+    "description": "algodón",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "nene",
+    "price": "$1.000",
+    "available": false,
+    "url_image": "https://http2.mlstatic.com/D_NQ_NP_955280-MLA44240036280_122020-W.jpg"
+  },
+  {
+    "id": 14,
+    "name": "musculosa nena",
+    "description": "algodón",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "nena",
+    "price": "$1.000",
+    "available": true,
+    "url_image": "https://www.cottonclub.com.ar/pub/media/catalog/product/cache/209363b969f3f314fc3ab18bcc883320/5/0/505_todas.jpg"
+  },
+  {
+    "id": 15,
+    "name": "campera con capucha",
+    "description": "algodón/polyester",
+    "colors": ["azul", "rojo", "verde", "negro", "blanco"],
+    "category": "teens",
+    "price": "$3.200",
+    "available": false,
+    "url_image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/342/958/products/4241-eaab5f2e073c37507c16012442787768-1024-1024.jpg"
+  }
+]
