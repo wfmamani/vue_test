@@ -1,23 +1,25 @@
 <template>
-  <div class="card" v-for="producto in productos" :key="producto.id">
-    <h3>{{ producto.name }}</h3>
-    <p>{{ producto.description }}</p>
-    <span
-      ><strong> Precio: {{ producto.price }} </strong></span
-    >
-    <p>Id:{{ producto.id }}</p>
-    <img :src="producto.url_image" alt="" />
-  </div>
+  <tarjeta_productos
+    v-for="producto in productos"
+    :key="producto.id"
+    :prod="producto"
+  />
+
+  <!-- <p>{{unaVariable}}</p> -->
 </template>
 
 <script>
 import productos from "@/productos.json";
+import tarjeta_productos from "@/components/productos/tarjeta_productos.vue";
 export default {
   data() {
     return {
       productos,
       unaVariable: 5,
     };
+  },
+  components: {
+    tarjeta_productos,
   },
 };
 </script>
@@ -32,8 +34,5 @@ export default {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
 }
-img {
-  width: 200px;
-  height: auto;
-}
+
 </style>
